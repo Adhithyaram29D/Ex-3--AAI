@@ -125,7 +125,7 @@ print(query_result)
 
 ## Output:
 <img width=35% src="https://github.com/user-attachments/assets/5e971221-b66b-4541-a8ae-5ffdfed68905" >
-
+<br>
 <img width=35% src="https://github.com/user-attachments/assets/669122ec-b924-4091-9eff-f1494fa89f7a" >
 
 
